@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":" BEAUTY PRODUCT",
+        "price": 200,
+        "image": "images/37 Beauty Products Under $10 That Feel Like They Should Cost More (1).jpg"
+    },
+    {
+        "id": 2,
+        "name":" BEAUTY PRODUCT",
+        "price": 250,
+        "image": "images/Beauty Products _ Skincare, Fragrance + Body Products (1).jpg"
+    },
+    {
+        "id": 3,
+        "name":" BEAUTY PRODUCT",
+        "price": 290,
+        "image": "images/download (4) (1).jpg" 
+    },
+    {
+        "id": 4,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 200,
+        "image": "images/Energizing Citrus Body Butter (1).jpg"
+    },
+    {
+        "id": 5,
+        "name":" BEAUTY PRODUCT",
+        "price": 300,
+        "image": "images/LIPS (1).jpg"
+    },
+    {
+        "id": 6,
+        "name":" BEAUTY PRODUCT",
+        "price": 200,
+        "image": "images/The Biggest Beauty Product Trend of 2019 Is Almost Good Enough to Eat (1).jpg"
+    }
+]
